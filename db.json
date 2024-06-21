@@ -1,0 +1,49 @@
+{
+    "contatos": [
+      {
+        "nome": "Victor Jorge",
+        "telefone": "(31)992015097",
+        "email": "victor.souza@sga.pucminas.br",
+        "cidade": "Betim",
+        "website": "https://github.com/victorjorgee",
+        "id": 1
+      }
+    ],
+    "usuarios": [
+      {
+        "id": "Victor Jorge",
+        "login": "Aluno",
+        "senha": "123",
+        "nome": "Victor Jorge",
+        "email": "victor.souza@sga.pucminas.br"
+      }
+    ],
+    "locais": [
+      {
+        "id": 1,
+        "descricao": "PUC Minas - Betim",
+        "endereco": "R. do Rosário, 1.081 Bairro Angola",
+        "favorito": true,
+        "cidade": "Betim",
+        "latlong": [
+          -44.1984331,
+          -19.9550716
+        ],
+        "url": "https://www.pucminas.br/unidade/betim/Paginas/default.aspx",
+        "cor": "blue"
+      }
+      
+    ],
+    "lancamentos": [
+      {
+        "mes": "jan-24",
+        "categoria": "Alimentação",
+        "valor": 500
+      }
+      
+    ],
+    "cidade": [
+         { "id": 1, "cidade": "Betim", "estado": "MG", "populacao": 3800000 }
+         
+     ]
+  }
